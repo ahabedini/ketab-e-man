@@ -1,0 +1,121 @@
+<!Doctype html>
+<html lang="pr-IR">
+	<head>
+		 <title>معرفی کتاب</title>
+		 <link rel="stylesheet" href="style.css">
+	</head>
+
+
+	<body>
+	
+		<div class="top">
+				<img src="icons8-youtube-play-button-5001.png">
+				<img src="icons8-twitter-5001.png">
+				<img src="icons8-instagram-480(1)1.png">
+				<img src="icons8-telegram-app-5001.png">
+				<div class="s"></div>
+				<img class="search" src="icons8-search-4801.png">
+		</div>
+		
+		<div class="box">
+				
+				<div class="menu">	
+				
+					<div class="p">
+						<ul>
+					
+							<li><a href="#">  مشخصات کتاب  	</a></li>
+							<li><a href="#">  درباره ی کتاب    </a></li>
+							<li><a href="#">  کمی بخوانیم    </a></li>
+							<li><a href="#">  پی نوشت   </a></li>
+							<li><a href="#">  کتب دیگر   </a></li>
+			
+						</ul>
+					</div>
+					
+					<button class="left">
+						#معرفی_کتاب
+					</button>
+				
+					<button class="right">
+						صفحه اصلی
+					</button>
+					
+					<button class="right2">
+						کتابخانه
+					</button>
+					
+					
+				</div>
+				
+				
+				<div class="box1">
+				
+					<div class="bookimage">
+						<div class="underimage">
+							<img class="t" src="2.jpg">
+						</div>
+					</div>
+					
+					<div class="details">
+					
+						<div class="d1">
+							<h1>آرزو های دست ساز</h1>
+						</div>
+						
+						<div class="d2">
+						
+							<h3>نویسنده : میلاد حبیبی</h3>
+							<h3>انتشارات : راهیار</h3>
+							<h3>قیمت : <span>18000</span> تومان</h3>
+							<h3>صفحات : <span>157</span> صفحه</h3>
+							<h3>موضوعات : #شرکت-دانش-بنیان #دانشجو #روایت-ما-می توانیم #دانشگاه</h3>
+						
+						</div>
+						
+					</div>
+					
+					<div class="icons">
+						<div class="ic">
+							<img src="icons8-bookmark-480.png">
+							<img src="icons8-heart-100.png">
+							<img src="icons8-share-30.png">
+						</div>
+					</div>
+					
+					<div class="kadr">
+						<div class="k1"></div>
+						<div class="k2"></div>
+						<div class="k3"></div>
+					</div>
+					
+				</div>
+				
+					<div class="space">
+				
+					</div>
+
+				<div class="box2">
+				
+				</div>
+				
+					<div class="space">
+				
+					</div>
+				
+				<div class="box3">
+				
+				</div>
+				
+					<div class="space">
+				
+					</div>
+				
+				<div class="footer">
+					<div class="toplayout"></div>	
+				</div>
+				
+		</div>
+		
+	</body>
+</html
